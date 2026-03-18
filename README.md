@@ -26,3 +26,9 @@ Stage 1 (Bash): setup_audit_env.sh – Automates API enablement and creates a re
               : cleanup_audit_env.sh - Automate the clean up of all created resources quietly for zero cost.
 
 Stage 2 (Python):
+
+
+____________________________________________________________________________________________________________________________________________________
+
+📋 Portfolio Context
+This project demonstrates a synthesis of Linux System Administration and Cloud Security Engineering. It utilizes the Google Cloud SDK and Python to enforce security benchmarks similar to those found in the CIS GCP Foundation.
