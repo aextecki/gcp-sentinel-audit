@@ -1,8 +1,6 @@
 # gcp-sentinel-audit
-GCP Cloud Security Project
 
-"Bootstrapping & Governance"
-
->"Day 0" security setup
+gcp-sentinel-audit 🛡️☁️
+Automated GCP Security Posture & Vulnerability Audit Framework
 
 
