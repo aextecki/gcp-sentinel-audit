@@ -20,5 +20,6 @@ Key Features
 The framework follows a dual-stage execution model:
 
 Stage 1 (Bash): setup_audit_env.sh – Automates API enablement and creates a restricted Service Account.
+              : cleanup_audit_env.sh - Automate the clean up of all created resources quietly for zero cost.
 
 Stage 2 (Python):
