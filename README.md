@@ -1,7 +1,10 @@
 # gcp-sentinel-audit (ongoing construction)
 
 gcp-sentinel-audit 🛡️☁️
-Automated GCP Security Posture & Vulnerability Audit Framework
+Automated GCP Security Posture & Vulnerability Audit Framework | Automated Security Posture Management (ASPM) for Google Cloud
+
+🚀 Mission
+To provide an automated, lightweight security auditing framework that identifies high-impact misconfigurations in GCP environments. This tool is designed to be executed from a hardened Linux administrative host, ensuring the security of the auditing process itself.
 
 📖 Overview
 gcp-sentinel-audit is a specialized security tool designed to bridge the gap between Cloud Security and Hardened Linux Administration
