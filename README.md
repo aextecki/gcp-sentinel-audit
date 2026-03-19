@@ -29,8 +29,18 @@ cleanup_audit_env.sh - Automate the clean up of all created resources quietly fo
 
 Stage 2 (Python):
 
+🛠️ Key Security Checks
+
+***SSRF Mitigation: Identification of instances not enforcing IMDSv2.
+
+***Data Exfiltration: Scanning for Cloud Storage buckets with allUsers permissions.
+
+***Identity Governance: Auditing IAM roles for "Owner/Editor" over-privilege.
+
+***Network Hardening: Detecting overly permissive Firewall rules (0.0.0.0/0).
+
 
 ____________________________________________________________________________________________________________________________________________________
 
-📋 Portfolio Context
+📋 Portfolio 
 This project demonstrates a synthesis of Linux System Administration and Cloud Security Engineering. It utilizes the Google Cloud SDK and Python to enforce security benchmarks similar to those found in the CIS GCP Foundation.
