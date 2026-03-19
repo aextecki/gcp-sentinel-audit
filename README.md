@@ -41,6 +41,15 @@ gcp_security_audit.py – Connects via the Google Cloud SDK to perform deep-reso
 
 ***Network Hardening: Detecting overly permissive Firewall rules (0.0.0.0/0).
 
+🚀 Getting Started
+
+Prerequisites:
+
+A Google Cloud Project with the Always Free Tier enabled.
+
+A hardened Linux VM or Google Cloud Shell.
+
+Python 3.9+ and gcloud CLI installed.
 
 ____________________________________________________________________________________________________________________________________________________
 
