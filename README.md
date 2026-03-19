@@ -14,7 +14,7 @@ Built by a Linux System Administrator with a focus on offensive security, this f
 
 Key Features
 
-**Linux-Hardened Execution: Designed to run from a secured Ubuntu/CentOS environment.
+***Linux-Hardened Execution: Designed to run from a secured Ubuntu/CentOS environment.
 
 
 
