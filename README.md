@@ -51,6 +51,14 @@ A hardened Linux VM or Google Cloud Shell.
 
 Python 3.9+ and gcloud CLI installed.
 
+
+installation in your google cloud shell
+
+git clone https://github.com/your-username/gcp-sentinel-audit.git
+cd gcp-sentinel-audit
+chmod +x scripts/setup_audit_env.sh
+./scripts/setup_audit_env.sh
+
 ____________________________________________________________________________________________________________________________________________________
 
 📋 Portfolio 
