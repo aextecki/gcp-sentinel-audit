@@ -41,6 +41,8 @@ gcp_security_audit.py – Connects via the Google Cloud SDK to perform deep-reso
 
 ***Network Hardening: Detecting overly permissive Firewall rules (0.0.0.0/0).
 
+
+
 🚀 Getting Started
 
 Prerequisites:
@@ -52,7 +54,10 @@ A hardened Linux VM or Google Cloud Shell.
 Python 3.9+ and gcloud CLI installed.
 
 
-installation in your google cloud shell
+
+
+
+Installation in your google cloud shell
 
 git clone https://github.com/your-username/gcp-sentinel-audit.git
 cd gcp-sentinel-audit
