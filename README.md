@@ -28,7 +28,6 @@ setup_audit_env.sh – Automates API enablement and creates a restricted Service
 cleanup_audit_env.sh - Automate the clean up of all created resources quietly for zero cost.
 
 Stage 2 (Python)
-
 gcp_security_audit.py – Connects via the Google Cloud SDK to perform deep-resource inspection.
 
 🛠️ Key Security Checks
