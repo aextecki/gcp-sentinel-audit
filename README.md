@@ -1,4 +1,4 @@
-# gcp-sentinel-audit (ongoing construction)
+# gcp-sentinel-audit (ongoing)
 
 gcp-sentinel-audit 🛡️☁️
 Automated GCP Security Posture & Vulnerability Audit Framework | Automated Security Posture Management (ASPM) for Google Cloud
@@ -27,7 +27,9 @@ Stage 1 (Bash)
 setup_audit_env.sh – Automates API enablement and creates a restricted Service Account.
 cleanup_audit_env.sh - Automate the clean up of all created resources quietly for zero cost.
 
-Stage 2 (Python):
+Stage 2 (Python)
+
+gcp_security_audit.py – Connects via the Google Cloud SDK to perform deep-resource inspection.
 
 🛠️ Key Security Checks
 
