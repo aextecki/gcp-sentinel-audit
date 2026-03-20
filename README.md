@@ -58,7 +58,7 @@ Python 3.9+ and gcloud CLI installed.
 
 Installation in your google cloud shell
 
-`git clone https://github.com/your-username/gcp-sentinel-audit.git`
+`git clone https://github.com/aextecki/gcp-sentinel-audit.git`
 
 `cd gcp-sentinel-audit`
 
